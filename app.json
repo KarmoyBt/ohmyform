@@ -49,11 +49,7 @@
       "value": "false"
     }
   },
-  "addons": [
 
-    "heroku-redis",
-    "mailtrap"
-  ],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
